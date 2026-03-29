@@ -12,7 +12,7 @@ It is also my **final exam project** for the **Web Development program (2024–2
 ## 🔗 Live Demo
 
 *(Will be published via Vercel)*
-
+https://bfportfolio.vercel.app/
 ---
 
 ## 🎯 Purpose
