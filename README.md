@@ -175,7 +175,7 @@ Under projektets gång har jag utvecklat min förmåga att:
 
 ## 🧑‍💻 Om mig
 
-Jag studerar webbutveckling och har ett särskilt intresse för frontend, där jag trivs bäst med att arbeta med design, interaktivitet och användarupplevelse.
+Jag studerar webbutveckling och har ett särskilt intresse för frontend, där jag trivs bäst med att arbeta med design, interaktivitet och användarupplevelse. Jag gillar att kombinera visuellt uttryck med tydlig teknisk struktur och skapa digitala upplevelser som känns både professionella och personliga.
 
 ---
 
